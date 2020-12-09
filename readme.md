@@ -1,3 +1,6 @@
+## Link Azure Web Static
+[link](https://lemon-plant-028c5e30f.azurestaticapps.net/) - https://lemon-plant-028c5e30f.azurestaticapps.net/
+
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://githubcampus.expert/assets/images/ce-flag.png" alt="Project logo"></a>
